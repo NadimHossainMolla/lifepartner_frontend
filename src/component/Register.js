@@ -76,11 +76,11 @@ function Register() {
           <div className="row gx-lg-5 align-items-center mb-5 pt-5">
             <div className="col-lg-6 mb-5 mb-lg-0 pt-4" style={{ zIndex: 10 }}>
               <h1 className="my-5 display-5 fw-bold ls-tight" style={{ color: 'hsl(218, 81%, 95%)' }}>
-                find the best partner <br />
-                <span style={{ color: 'hsl(218, 81%, 75%)' }}>for your life</span>
+                Register yourself<br />
+                <span style={{ color: 'hsl(218, 81%, 75%)' }}>find your better half</span>
               </h1>
               <p className="mb-4 opacity-70" style={{ color: 'hsl(218, 81%, 85%)' }}>
-                Marriage is not just about finding the right person, it is also about being the right person. Let's get registered on our platform and embark on a journey to find your perfect match, while enjoying exclusive benefits and a trusted space for your love story.
+              Marriage is not just about finding the right person — it's also about being the right person. Register on our platform and embark on a journey to find your perfect match. It's free. No hidden costs.
               </p>
             </div>
 

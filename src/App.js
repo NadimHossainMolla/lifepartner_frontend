@@ -21,19 +21,19 @@ function Home() {
         <div className="row gx-lg-5 align-items-center mb-5">
           <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: 10 }}>
             <h1 className="my-5 display-5 fw-bold ls-tight" style={{ color: 'hsl(218, 81%, 95%)' }}>
-              Welcome to eMarriage <br />
+              Welcome to Matrimony <br />
               <span style={{ color: 'hsl(218, 81%, 75%)' }}>Find Your Perfect Partner</span>
             </h1>
             <p className="mb-4 opacity-70" style={{ color: 'hsl(218, 81%, 85%)' }}>
               Join thousands of others in finding a life partner. 
-              Connect, match, and build your future together.
+              Match, connect, and find yours.
             </p>
             <button
               className="btn btn-primary btn-lg"
               style={{ backgroundColor: 'hsl(218, 81%, 75%)', border: 'none' }}
               onClick={handleFindPartnerClick}
             >
-              Find Your Partner
+              Let's get started
             </button>
           </div>
 
